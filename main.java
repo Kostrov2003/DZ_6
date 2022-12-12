@@ -1,14 +1,14 @@
 public class Main
 {
 	public static void main(String[] args) {
-		Dog Sharik = new Dog("Шарик");
-		Sharik.run(150);
-		Sharik.swim(150);
-		Sharik.jump(150);
-		Cat Barsik = new Cat("Барсик");
-		Barsik.run(150);
-		Barsik.swim(150);
-		Barsik.jump(150);
+		Dog Kyzia = new Dog("кузьма");
+		Kyzia.run(100);
+		Kyzia.swim(100);
+		Kyzia.jump(100);
+		Cat Gridin = new Cat("гридин");
+		Gridin.run(150);
+		Gridin.swim(150);
+		Gridin.jump(150);
 	}
 }
 class Animal{
